@@ -37,7 +37,7 @@ joe.pen = rg.Pen('blue',10)
 for k in range(3):
     joe.forward(20)
     joe.left(90)
-    joe.forward(30)
+    joe.forward(10)
 bob = rg.SimpleTurtle()
 bob.pen = rg.Pen('red',10)
 
