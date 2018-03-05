@@ -104,9 +104,6 @@ natasha.forward(50)
 natasha.speed = 40
 natasha.left(90)
 natasha.forward(20)
-
-
-
 ###############################################################################
 #
 # DONE: 4.
@@ -120,13 +117,11 @@ natasha.forward(20)
 #   As always, test by running the module.
 #
 ###############################################################################
-bob=rg.SimpleTurtle('turtle')
-bob.pen=rg.Pen('green',20)
+bob = rg.SimpleTurtle('turtle')
+bob.pen = rg.Pen('green', 20)
 bob.forward(20)
 bob.left(30)
 bob.backward(99)
-
-
 ###############################################################################
 #
 # DONE: 5.
